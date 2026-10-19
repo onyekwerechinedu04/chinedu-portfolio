@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": 1,
+    "title": "American Airlines Flight Operations Analysis",
+    "category": "Data",
+    "status": "Completed Project",
+    "description": "Analyzed airline operations datasets to compare estimated departure time accuracy, timeliness, and update frequency between mainline and regional flights. Used Python and Power BI to identify patterns and present recommendations for improving customer communication.",
+    "technologies": ["Python", "Power BI", "Data Analysis", "Data Visualization"]
+  },
+  {
+    "id": 2,
+    "title": "Personal Portfolio Website",
+    "category": "Technology",
+    "status": "In Progress",
+    "description": "Developing a responsive personal portfolio website using HTML, CSS, Bootstrap, JavaScript, and JSON. The website includes multiple pages, dynamically generated project cards, category filters, and keyword search.",
+    "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript", "JSON"]
+  },
+  {
+    "id": 3,
+    "title": "Business Performance Dashboard",
+    "category": "Data",
+    "status": "Sample Project Concept",
+    "description": "A proposed interactive dashboard that would visualize key business performance metrics, identify trends, and help managers make more informed decisions.",
+    "technologies": ["Power BI", "Excel", "Data Visualization"]
+  },
+  {
+    "id": 4,
+    "title": "Database Management System",
+    "category": "Technology",
+    "status": "Sample Project Concept",
+    "description": "A proposed relational database project involving entity relationship diagrams, structured data storage, and SQL queries for retrieving and organizing information.",
+    "technologies": ["SQL", "ERD", "Database Design"]
+  },
+  {
+    "id": 5,
+    "title": "Business Strategy Case Study",
+    "category": "Business",
+    "status": "Sample Project Concept",
+    "description": "A proposed business analysis project focused on evaluating an organization's operations, identifying business challenges, and developing practical recommendations.",
+    "technologies": ["Business Analysis", "Research", "Presentations"]
+  }
+]
